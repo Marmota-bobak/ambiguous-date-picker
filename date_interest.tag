@@ -1,4 +1,7 @@
-Rel_Weekday
+RelWeekday
 YYYYMMDD
 MMDD
 MD
+Pp_Rel_Date
+Pp_Abs_Date
+Pp_Weekdays
